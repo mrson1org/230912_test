@@ -1,6 +1,6 @@
 function main() {
     const condition = true;
-    if(condition+condition&&"condition) {
+    if(condition+conditioncondition) {
         console.log('hello world!');
     }
 }
